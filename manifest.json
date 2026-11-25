@@ -1,0 +1,13 @@
+
+{
+  "name": "Evolução Fitness",
+  "short_name": "Evolução",
+  "description": "Aplicativo oficial da Academia Evolução Fitness",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "portrait",
+  "icons": []
+}
